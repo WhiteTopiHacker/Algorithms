@@ -1,0 +1,10 @@
+Data Structures are the programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or the other way. This tutorial will give you a great understanding on Data Structures needed to understand the complexity of enterprise level applications and need of algorithms, and data structures.
+
+Why to Learn Data Structure and Algorithms?
+As applications are getting complex and data rich, there are three common problems that applications face now-a-days.
+
+Data Search − Consider an inventory of 1 million(106) items of a store. If the application is to search an item, it has to search an item in 1 million(106) items every time slowing down the search. As data grows, search will become slower.
+
+Processor speed − Processor speed although being very high, falls limited if the data grows to billion records.
+
+Multiple requests − As thousands of users can search data simultaneously on a web server, even the fast server fails while searching the data.
